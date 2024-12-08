@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shankar
+- 👀 I’m interested in Development roles
+- 🌱 I’m currently learning Web Development And Machine Learning
+- 💞️ I’m looking to collaborate on with fellow passionate developers
+- 📫  My LinkedIn potfolio :https://www.linkedin.com/in/shankarilango/
